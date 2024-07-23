@@ -2,6 +2,8 @@
 
 Este programa implementa el Algoritmo del Banquero para la gestión de recursos en sistemas operativos. Permite ingresar el número de procesos y recursos, así como las matrices de asignación y de máximos, para determinar si existe una secuencia segura para la ejecución de los procesos sin que ocurra un bloqueo.
 
+"Proyecto realizado por Martín Albizú y Wilson Alvarez"
+
 ## Requisitos
 
 - Un compilador de C++ (por ejemplo g++, Codeblocks 20.03)

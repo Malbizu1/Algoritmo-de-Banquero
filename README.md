@@ -6,7 +6,7 @@ Este programa implementa el Algoritmo del Banquero para la gestión de recursos 
 
 ## Requisitos
 
-- Un compilador de C++ (por ejemplo g++, Codeblocks 20.03)
+- Un compilador de C++ (por ejemplo g++, Dev-C++)
 - Sistema operativo Windows, Linux o MacOS
 
 ## Compilación y Ejecución
